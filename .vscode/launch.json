@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "https://adsbc.southeastasia.cloudapp.azure.com:30003",
+            "port": 30009,
+            "serverInstance": "NAV",
+            "authentication": "UserPassword",
+        }
+    ]
+}
